@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2001",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ]
+  ],
+  "legacy_uid": "b4b3533e-89b4-a4df-f1a2-80b721e02357",
+  "instructors": {
+    "content": [
+      "63d1aa03-136b-4aa8-0c42-fae122078527"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "74819ec2-c629-2f85-3680-373edf735316",
+    "website": "21w-730-4-expository-writing-analyzing-mass-media-spring-2001"
+  },
+  "course_title": "Expository Writing: Analyzing Mass Media",
+  "course_description": "This course focuses on developing and refining the skills that will you need to express your voice more effectively as an academic writer. As a focus for our writing this semester, this course explores what it means to live in the age of mass media. We will debate the power of popular American media in shaping our ideas of self, family and community and in defining social issues. Throughout the semester, students will focus on writing as a process of drafting and revising to create essays that are lively, clear, engaging and meaningful to a wider audience.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.730-4",
+  "course_image_thumbnail": {
+    "content": "aeb36295-59e5-2917-e1f4-79affdf33dab",
+    "website": "21w-730-4-expository-writing-analyzing-mass-media-spring-2001"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "d2560803-7fdb-4e7b-94e4-0304944e5a05",
+  "site_short_id": "21w.730-4-spring-2001",
+  "site_url_path": "courses/21w-730-4-expository-writing-analyzing-mass-media-spring-2001",
+  "title": "Course Metadata"
+}
